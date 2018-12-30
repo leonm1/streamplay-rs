@@ -1,0 +1,10 @@
+[package]
+name = "streamplay_rs"
+version = "0.1.0"
+authors = ["Matthew Leon <matthew.leon@vanderbilt.edu>"]
+edition = "2018"
+
+[dependencies]
+portaudio = "0.7.0"
+mdns = "0.3.0"
+opus = "0.2.1"
